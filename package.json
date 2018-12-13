@@ -1,0 +1,38 @@
+{
+  "name": "dzulkarnain",
+  "version": "1.0.0",
+  "description": "Javascript Ecosystem",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "mysql2": "^1.6.4",
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4",
+    "tedious": "^3.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fathurifki/Learning-JS-Ecosystem.git"
+  },
+  "keywords": [
+    "JSEco"
+  ],
+  "author": "Rifki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fathurifki/Learning-JS-Ecosystem/issues"
+  },
+  "homepage": "https://github.com/fathurifki/Learning-JS-Ecosystem#readme"
+}
